@@ -1,5 +1,5 @@
 # Company Portal App
-This project aims to built a company portal app using redux by minuplaiting this API `https://api.github.com/organizations'
+This project aims to built a company portal app using redux by minuplaiting this API https://api.github.com/organizations
 
 ## Built With
 <div align="left">
